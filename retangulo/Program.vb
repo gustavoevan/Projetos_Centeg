@@ -16,11 +16,5 @@ Module Program
         area= base * altura
 
         console.writeline("a area do retangulo é " & area)
-        
-
-
-
-
-
     End Sub
 End Module
